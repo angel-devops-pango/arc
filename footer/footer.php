@@ -1,3 +1,3 @@
 <?php
 
-echo "footer v1";
+echo "footer v2";
